@@ -13,7 +13,7 @@ def test_square():
 print("All tests passed!")
 
 
-print("All tests passed!")
+
 
 
 
