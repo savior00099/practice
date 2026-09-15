@@ -10,7 +10,6 @@ def test_square():
 
 
 
-print("All tests passed!")
 
 
 
