@@ -20,7 +20,7 @@ print("All tests passed!")
 
 print("All tests passed!")
 
-
+PRINT("All tests passed!")
 
 
 
