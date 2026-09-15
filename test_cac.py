@@ -26,7 +26,7 @@ PRINT("All tests passed!")
 
 PRI NT("All tests passed!")
 
-
+    PRINT("All tests passed!")
 
 
 
